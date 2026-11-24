@@ -1,0 +1,4 @@
+warehouse_id,warehouse_name,city,state,capacity_units,manager_name
+1,Greater Noida Central Warehouse,Greater Noida,Uttar Pradesh,50000,Rakesh Verma
+2,Gurugram Distribution Hub,Gurugram,Haryana,30000,Sandeep Yadav
+3,Lucknow Regional Warehouse,Lucknow,Uttar Pradesh,20000,Farhan Siddiqui
