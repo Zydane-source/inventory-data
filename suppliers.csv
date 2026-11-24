@@ -1,0 +1,16 @@
+supplier_id,supplier_name,contact_person,phone,email,city,lead_time_days
+1,Zenith Electronics Pvt Ltd,Anil Kapoor,9100010001,sales@zenithelectronics.example,Noida,7
+2,Apex Digital Distributors,Neha Malhotra,9100010002,orders@apexdigital.example,Delhi,5
+3,Nova Mobile Accessories Co,Rohit Saxena,9100010003,info@novamobile.example,Ghaziabad,4
+4,Pioneer Computer Peripherals,Sunil Arora,9100010004,sales@pioneerperipherals.example,Gurugram,6
+5,Sharma Stationery Traders,Meena Sharma,9100010005,contact@sharmastationery.example,Delhi,3
+6,Bright Office Solutions,Vikas Gupta,9100010006,support@brightoffice.example,Faridabad,5
+7,Hearth and Home Appliances Ltd,Pooja Bansal,9100010007,sales@hearthhome.example,Jaipur,9
+8,Kitchen Craft Industries,Deepak Jain,9100010008,orders@kitchencraft.example,Moradabad,8
+9,Royal Furnishings Pvt Ltd,Imran Qureshi,9100010009,info@royalfurnishings.example,Saharanpur,14
+10,Glow Personal Care Products,Shalini Mehta,9100010010,sales@glowcare.example,Mumbai,10
+11,PureLife FMCG Distributors,Arvind Tiwari,9100010011,orders@purelifefmcg.example,Lucknow,4
+12,Harvest Foods India Pvt Ltd,Kamal Singh,9100010012,sales@harvestfoods.example,Karnal,6
+13,Sparkle Cleaning Products,Rekha Verma,9100010013,info@sparklecleaning.example,Kanpur,5
+14,Metro Wholesale Supplies,Harish Choudhary,9100010014,orders@metrowholesale.example,Delhi,3
+15,Eastern Imports and Trading Co,Sourav Das,9100010015,trade@easternimports.example,Kolkata,12
